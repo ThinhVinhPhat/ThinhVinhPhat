@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thình Vĩnh Phát</h1>
-<h3 align="center">Final-year IT student at Ho Chi Minh City University of Industry with 1 year of practical experience in full-stack development. Proficient in building scalable web applications using React, Next.js, NestJS, Node.js, and ExpressJS.</h3>
+<h3 align="center">Final-year IT student at Ho Chi Minh City University of Industry with 1 year of practical experience in full-stack development. Proficient in building scalable web applications using React, Next.js, NestJS and ExpressJS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinhvinhphat&label=Profile%20views&color=0e75b6&style=flat" alt="thinhvinhphat" /> </p>
 
