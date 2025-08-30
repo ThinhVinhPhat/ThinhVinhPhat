@@ -101,17 +101,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thinhvinhphat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thinhvinhphat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thinhvinhphat/thinhvinhphat/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thinhvinhphat" alt="thinhvinhphat" /></a> </p>
 
 ---
 
