@@ -86,7 +86,8 @@
 - 💳 Secure payment integration
 - 📊 Admin dashboard for inventory management
 
-**Tech Stack:** React, Node.js, Express, MongoDB, CSS3
+**Tech Stack:** React, NestJS, PostgreSQL, Docker, Render,Aiven, Stripe, AWS S3, TypeORM,
+Swagger
 
 ---
 
