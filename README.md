@@ -18,7 +18,7 @@
 - 💼 Final-year IT student at **Ho Chi Minh City University of Industry**
 - 💡 I love exploring new technologies and building innovative solutions
 - 📫 How to reach me: **thinhvinhp@gmail.com**
-- 📄 Know about my experiences: **[My CV](https://www.topcv.vn/xem-cv/A1UAV10CBV1QBQAAB1lUBQcADwdaAg1YDAFWBg27f6)**
+- 📄 Know about my experiences: **[My Portfolio]([https://portfolio-y19z.onrender.com/])**
 
 ---
 
